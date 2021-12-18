@@ -1,0 +1,5 @@
+requests
+tox
+fake-winreg
+pyinstaller
+aiohttp
