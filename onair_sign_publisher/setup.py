@@ -48,5 +48,8 @@ setup(
     long_description=read('README.md'),
     install_requires=[
         'requests'
-    ]
+    ],
+    cmdclass={
+        'pyinstaller': PyinstallerCommand
+    }
 )
