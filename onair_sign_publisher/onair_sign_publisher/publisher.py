@@ -1,3 +1,6 @@
+""""
+Copyright (C) 2021 twyleg
+"""
 import time
 import requests
 import json

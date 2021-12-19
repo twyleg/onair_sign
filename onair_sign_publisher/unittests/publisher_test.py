@@ -1,3 +1,6 @@
+""""
+Copyright (C) 2021 twyleg
+"""
 import unittest
 import sys
 import requests
