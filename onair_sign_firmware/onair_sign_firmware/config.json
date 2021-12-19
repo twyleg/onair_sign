@@ -1,0 +1,5 @@
+{
+  "ssid": "<SSID>",
+  "psk": "<PASSPHRASE>",
+  "http_port": 8080
+}
